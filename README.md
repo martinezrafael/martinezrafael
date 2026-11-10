@@ -1,4 +1,4 @@
-'#Olá, eu sou o Rafael 👋
+# Olá, eu sou o Rafael 👋
 
 ### 💻 Web Developer / Backend Developer
 
