@@ -1,6 +1,6 @@
-'# Olá, eu sou o Rafael Molina 👋
+'#Olá, eu sou o Rafael 👋
 
-### 💻 Web Developer / Full Stack Developer
+### 💻 Web Developer / Backend Developer
 
 Desenvolvedor focado em criar soluções digitais eficientes, escaláveis e modernas para a web. Apaixonado por tecnologia, código limpo e aprendizado contínuo.
 
