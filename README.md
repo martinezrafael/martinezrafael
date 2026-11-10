@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Molina 👋
+'# Olá, eu sou o Rafael Molina 👋
 
 ### 💻 Web Developer / Full Stack Developer
 
@@ -28,15 +28,6 @@ Desenvolvedor focado em criar soluções digitais eficientes, escaláveis e mode
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinezrafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezrafael&layout=compact&theme=dark"/>
-</p>
 
 ---
 
