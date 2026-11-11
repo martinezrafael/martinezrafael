@@ -33,5 +33,5 @@ Desenvolvedor focado em criar soluções digitais eficientes, escaláveis e mode
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/molinamartinez/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/molinamartinez](https://www.linkedin.com/in/molinamartinez/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelmartinez.contato@gmail.com)
